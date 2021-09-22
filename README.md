@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ankita0106
-- 👀 I’m interested in learning technical skills.
-- 🌱 I’m currently doing engineering in computer science dept.
+- � Hi, I’m @Ankita0106
+- � I’m interested in learning technical skills.
+- � I’m currently doing engineering in computer science dept.
 
 
 
